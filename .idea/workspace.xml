@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="466b541d-dba3-4c72-90e1-db5c148f9a97" name="Changes" comment="NEW SECTION: BASIC I&amp;O INCLUDING JAVA.UTIL Section 20.308(JavaFX; Exceptions)">
-      <change afterPath="$PROJECT_DIR$/src/com/corcega/Example.java" afterDir="false" />
+    <list default="true" id="466b541d-dba3-4c72-90e1-db5c148f9a97" name="Changes" comment="Section 20.309(JavaFX; Stack Trace and Call Stack) - Example class created to demonstrate stack trace">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/corcega/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corcega/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +64,19 @@
       <option name="project" value="LOCAL" />
       <updated>1687056483670</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Section 20.309(JavaFX; Stack Trace and Call Stack) - Example class created to demonstrate stack trace">
+      <created>1687058742272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687058742272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NEW SECTION: BASIC I&amp;O INCLUDING JAVA.UTIL Section 20.308(JavaFX; Exceptions)" />
-    <option name="LAST_COMMIT_MESSAGE" value="NEW SECTION: BASIC I&amp;O INCLUDING JAVA.UTIL Section 20.308(JavaFX; Exceptions)" />
+    <MESSAGE value="Section 20.309(JavaFX; Stack Trace and Call Stack) - Example class created to demonstrate stack trace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 20.309(JavaFX; Stack Trace and Call Stack) - Example class created to demonstrate stack trace" />
   </component>
 </project>
