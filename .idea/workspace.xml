@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="466b541d-dba3-4c72-90e1-db5c148f9a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exceptions_Section20InputOutput.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/corcega/Main.java" afterDir="false" />
+    <list default="true" id="466b541d-dba3-4c72-90e1-db5c148f9a97" name="Changes" comment="NEW SECTION: BASIC I&amp;O INCLUDING JAVA.UTIL Section 20.308(JavaFX; Exceptions)">
+      <change afterPath="$PROJECT_DIR$/src/com/corcega/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +57,18 @@
       <option name="presentableId" value="Default" />
       <updated>1687055111074</updated>
     </task>
+    <task id="LOCAL-00001" summary="NEW SECTION: BASIC I&amp;O INCLUDING JAVA.UTIL Section 20.308(JavaFX; Exceptions)">
+      <created>1687056483670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687056483670</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NEW SECTION: BASIC I&amp;O INCLUDING JAVA.UTIL Section 20.308(JavaFX; Exceptions)" />
+    <option name="LAST_COMMIT_MESSAGE" value="NEW SECTION: BASIC I&amp;O INCLUDING JAVA.UTIL Section 20.308(JavaFX; Exceptions)" />
   </component>
 </project>
